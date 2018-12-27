@@ -1,4 +1,4 @@
-# Connecta
+# Connect
 
 ##Installation
 
