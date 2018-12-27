@@ -1,0 +1,28 @@
+.content{
+    &-item{
+        display: flex;
+        justify-content: space-between; 
+        &__button{
+            margin-top:5px;
+            height:10px;
+        } 
+        &__search{
+            color: #ffffff !important;
+            margin-top: 5px;
+            div{
+                input{
+                    color: #ffffff !important;
+                }
+            }
+        }  
+        &__select{
+            label{
+                color: #ffffff !important;
+            }
+            width: 140px;
+            margin-right: 100px !important;
+        }
+    }
+    display: flex;
+    justify-content: space-between;
+}
